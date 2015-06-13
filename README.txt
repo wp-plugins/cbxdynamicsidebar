@@ -39,6 +39,8 @@ CBX Dynamic Sidebar for Wordpress helps to create dynamic sidebar or widget posi
     do_shortcode('[cbxdynamicsidebar id="post id here"]');
    ?>
 
+   See the gist here https://gist.github.com/manchumahara/81c60c90d03678a1964c#file-gistfile1-txt
+
 From the custom post type "cbxsidebar" post edit screen there are other features that is implemented using meta field for
 
 - sidebar class
@@ -64,7 +66,7 @@ For shortcode with all possible param –
 
 [cbxdynamicsidebar id="post id here" float="left" wclass="cbxdynamicsidebar_wrapper" wid="cbxdynamicsidebar_wrapper" /]
 
-
+For more details check here http://wpboxr.com/product/cbx-dynamic-sidebar-for-wordpress
 
 == Installation ==
 
@@ -72,18 +74,12 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload `cbxdynamicsidebar.php` to the `/wp-content/plugins/` directory
+1. Upload `cbxdynamicsidebar` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
 
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
 
 == Screenshots ==
 
