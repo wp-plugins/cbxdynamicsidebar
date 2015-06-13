@@ -9,7 +9,7 @@
  * Plugin Name:       CBX Dynamic Sidebar
  * Plugin URI:        http://wpboxr.com/product/cbx-dynamic-sidebar-for-wordpress
  * Description:       Dynamic sidebar for wordpress using custom post type and shortcode
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            WPBoxr
  * Author URI:        http://wpboxr.com
  * License:           GPL-2.0+
