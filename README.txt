@@ -15,7 +15,7 @@ Dynamic sidebar for wordpress using custom post type and shortcode
 CBX Dynamic Sidebar for Wordpress helps to create dynamic sidebar or widget position using custom post type. Sometimes we need to put sidebar inside content and this plugin
  helps to create sidebar using custom post type and put the sidebar inside content using shortcode using simple shortcode
 
- [cbxdynamicsidebar id="post id here" /]  where 686  is the post id or as you get
+ [cbxdynamicsidebar id="post id here" /] 
 
  It'a also possible to call the sidebar using direction function call in theme
 
